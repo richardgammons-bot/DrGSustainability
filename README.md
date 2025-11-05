@@ -4,4 +4,5 @@ Here's our todo:
 
 * \[x] Create a new file
 * \[x] Make our first commit
-* \[ ] Fix this typo
+* \[x] Make second commit
+* \[ ] Fix this tpyo
